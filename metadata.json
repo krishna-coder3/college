@@ -1,0 +1,8 @@
+{
+  "name": "College Helpdesk System",
+  "description": "Enterprise multi-tenant digital helpdesk, ticketing, and student support ecosystem for universities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
